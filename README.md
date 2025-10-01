@@ -1,0 +1,1 @@
+this jupyter notebook uses consumer level dummy data to caluculate monthly PDs, use monte calro simulations to calculate VaR@99 and also use IID, and AR to simulate future data and incoropate and predict future VaR for provisioning
